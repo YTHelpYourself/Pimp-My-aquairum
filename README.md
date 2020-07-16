@@ -1,3 +1,5 @@
+DRAAAAAAAFT, project just started!!!!!
+
 # Pimp-My-aquairum
 
 In this project I show how I pimp my 30y old aquarium by replacing the old single neon tube(18W) by two new 2x LED strips (36W) plus a customised micro controller (ESP8266, Wemos mini D1) acting as quad timer and controller for multiple 240V power sockets and the LED strips.
